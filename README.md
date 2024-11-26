@@ -1,7 +1,7 @@
-:rocket: I'm Full Stack developer.<br/>
+:rocket: I'm a Full-Stack developer.<br/>
 :boom: I love Programming <br/>
-:pencil: I’m currently learning GraphQL, three.js, Nuxt.js <br/>
-💬 Ask me about Php laravel, Javascript, full-stack development. <br/>
+:pencil: I’m currently learning GraphQL, three.js, Nextjs, Remix <br/>
+💬 Ask me about PHP Laravel, Javascript, and full-stack development. <br/>
 
 
 <!---
